@@ -1,0 +1,8 @@
+4 3
+moscow
+cherepovets
+paris
+vologda
+paris
+cherepovets
+vologda
