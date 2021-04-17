@@ -3,4 +3,6 @@
 
 Условия задач - [problems.pdf](./problems.pdf)
 
+Разбор решений задач - [solutions.pdf](./solutions.pdf)
+
 Группа в ВК "Студенческая Программистская Лига ЧГУ" - https://vk.com/spl_chsu
